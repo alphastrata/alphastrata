@@ -1,10 +1,9 @@
 ### Hi there, I'm Jeremy/jer/alphastrata...
 
-## Aussie Expat living in Japan (soon to change?), father, husband aspiring polyglot and polymath.
+## Aspiring polyglot and polymath.
 
-- 🌱 I’m currently learning ... RUST and VIM
+- 🌱 I’m am supposedly working on Rust...
 - 🤔 I’m looking for help with ... Everything?
-- 💬 Ask me about ... Space, Robots, Startups (All the non-programmer stuff :P)
-- 📫 How to reach me: ... try the social links at the bottom
+- 💬 Ask me about ... Space
 - 😄 Pronouns: ... He/Him/His
 
