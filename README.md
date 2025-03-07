@@ -1,9 +1,10 @@
 # Hi there, I'm Jeremy/jer/alphastrata...
 
-- 🌱 I’m am supposedly working on Rust...
+- 🌱 I’m am supposedly working on Many things...
 - 🤔 I’m looking for help with ... Everything?
-- 💬 Ask me about ... Space
+- 💬 Ask me about ... Space/Manufacturing
 - 😄 Pronouns: ... He/Him/His
+- opinions/repos/stuff here in no way reflections the opinions of my employeer'ss/employees/clients
 
 ---
 <!-- 
