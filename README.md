@@ -4,7 +4,6 @@
 - 🤔 I’m looking for help with ... Everything?
 - 💬 Ask me about ... Space/Manufacturing
 - 😄 Pronouns: ... He/Him/His
-- opinions/repos/stuff here in no way reflections the opinions of my employeer'ss/employees/clients
 
 ---
 <!-- 
